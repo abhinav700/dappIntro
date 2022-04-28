@@ -1,0 +1,1 @@
+1) functionality to connect our application to metamask
